@@ -32,6 +32,13 @@ Michele Bernocco (Me): Behavioral Logic & Risk Analysis. Responsible for the Sta
 
 Pietro Sica: Data Architect & OCR Integration. Focused on MongoDB persistence and asynchronous OCR optimization for plate recognition.
 
+
+---
+### 📑 Technical Documentation
+For a detailed analysis of the project architecture, mathematical models, and experimental results, please refer to the:
+[Full Project Report (PDF)](./docs/ReportDefinitivo.pdf)
+---
+
 💻 Installation & Setup
 1. Clone the Repository
 Bash
