@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+numpy
+supervision
+easyocr
+pymongo
+motmetrics
