@@ -26,9 +26,9 @@ Evaluation: CLEAR MOT metrics (MOTA, IDF1)
 👥 The Team & Contributions
 This project was developed with a modular architecture, dividing technical responsibilities among three core developers:
 
-Giuseppe Montaruli: Core Developer & Computer Vision Specialist. Focused on YOLO integration and the TOOCM tracking logic for occlusion management.
-
 Michele Bernocco (Me): Behavioral Logic & Risk Analysis. Responsible for the State Machine development, TTC mathematical modeling, and dynamic lane calibration.
+
+Giuseppe Montaruli: Core Developer & Computer Vision Specialist. Focused on YOLO integration and the TOOCM tracking logic for occlusion management.
 
 Pietro Sica: Data Architect & OCR Integration. Focused on MongoDB persistence and asynchronous OCR optimization for plate recognition.
 
